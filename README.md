@@ -13,7 +13,7 @@ I also have available an[ Agency called "Quijost" in Upwork](https://www.upwork.
 
 Do you still need more info about me or my work?
 
-You could check my <a href="https://www.linkedin.com/in/angelguzmanmaeso/"><img align="left" alt="linkedin Angel Guzman Maeso @shakaran" width="18px" src="assets/linkedin.svg" /></a> [linkedin profile](https://www.linkedin.com/in/angelguzmanmaeso/), <a href="https://twitter.com/shakaran87"><img align="left" alt="twitter Angel Guzman Maeso @shakaran87" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a> [twitter profile](https://twitter.com/shakaran87) or even [stackoverflow profile](http://stackoverflow.com/users/368489/shakaran).
+You could check my <a href="https://www.linkedin.com/in/angelguzmanmaeso/"><img align="left" alt="linkedin Angel Guzman Maeso @shakaran" width="18px" src="linkedin.svg" /></a> [linkedin profile](https://www.linkedin.com/in/angelguzmanmaeso/), <a href="https://twitter.com/shakaran87"><img align="left" alt="twitter Angel Guzman Maeso @shakaran87" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a> [twitter profile](https://twitter.com/shakaran87) or even [stackoverflow profile](http://stackoverflow.com/users/368489/shakaran).
 
 <!--
 
