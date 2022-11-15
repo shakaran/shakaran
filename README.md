@@ -3,7 +3,7 @@ Do you like my work? I am a Senior Backend Freelancer & Syadmin, you can hire me
 
 Additionally you could be interested in check or hire me through my [Upwork profile](https://www.upwork.com/fl/angelguzmanmaeso#/) or [Malt Profile](https://www.malt.es/profile/angelguzmanmaeso)
 
-So far until I am writing this lines, around 230+ jobs performed in last 8 years (only via Upwork) and 20+ in Malt platform, overall 11500+ hours of work. 
+So far until I am writing this lines, around 230+ jobs performed in last 8 years (only via Upwork) and 35+ in Malt platform, overall 11500+ hours of work. 
 
 You can check the public feedback from other clients and portfolio from that jobs.
 
