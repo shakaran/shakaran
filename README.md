@@ -48,3 +48,7 @@ You could check my <a href="https://www.linkedin.com/in/angelguzmanmaeso/"><img 
 
 <br /><br />
 And a lot more, just I am being lazy adding more icons here ;)
+
+#### Github Stats 📊
+
+[![Ángel Guzmán Maeso's github stats](https://github-readme-stats.vercel.app/api?username=shakaran&show_icons=true&theme=onedark)](https://github.com/shakaran/github-readme-stats)
