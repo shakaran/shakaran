@@ -1,9 +1,13 @@
 ### Hi there 👋
-Do you like my work? I am a Senior Backend Freelancer & Sysadmin, you can hire me, open a issue for contact me!
+Do you like my work? I am a Senior Backend Freelancer & Sysadmin, also touching the front side (aka FullStack), you can hire me, open a issue for contact me!
 
-Additionally you could be interested in check or hire me through my [Upwork profile](https://www.upwork.com/fl/angelguzmanmaeso#/) or [Malt Profile](https://www.malt.es/profile/angelguzmanmaeso) or [Shakers profile](https://www.shakersworks.com/), also in [Worsible](https://worksible.com/)
+Additionally you could be interested in check or hire me through my profiles at:
 
-So far until I am writing this lines, around 230+ jobs performed in last 10 years (only via Upwork) and 110+ in Malt platform, overall 11500+ hours of work. 
+<a href="https://www.upwork.com/fl/angelguzmanmaeso#/"><img alt="Upwork Profile Angel Guzman Maeso @shakaran" width="18px" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" /></a> [Upwork](https://www.upwork.com/fl/angelguzmanmaeso#/) (+230 jobs performed, 11500+ hours of work)<br />
+<a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+110 jobs performed)<br />
+<a href="https://www.shakersworks.com"><img alt="Shakers Profile Angel Guzman Maeso @shakaran" width="18px" src="https://app.shakersworks.com/favicon.png" /></a>
+[Shakers](https://www.shakersworks.com/) <br />
+<a href="https://worksible.com/shakaran"><img alt="Worksible Profile Angel Guzman Maeso @shakaran" width="18px" src="https://worksible.com/assets/imgs/logo/logo_azul.png" /></a> [Worksible](https://worksible.com/)
 
 You can check the public feedback from other clients and portfolio from that jobs.
 
@@ -11,9 +15,7 @@ I also have available an[ Agency called "Quijost" in Upwork](https://www.upwork.
 
 ### More info
 
-Do you still need more info about me or my work?
-
-You could check my <!--<a href="https://www.linkedin.com/in/angelguzmanmaeso/"><img align="left" alt="linkedin Angel Guzman Maeso @shakaran" width="18px" src="linkedin.svg" /></a>--> [linkedin profile](https://www.linkedin.com/in/angelguzmanmaeso/), <!--<a href="https://twitter.com/shakaran87"><img align="left" alt="twitter Angel Guzman Maeso @shakaran87" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a>--> [twitter profile](https://twitter.com/shakaran87) or even [stackoverflow profile](http://stackoverflow.com/users/368489/shakaran).
+Do you still need more info about me or my work? Check this networks:
 
 [![Angel Guzman Maeso Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelguzmanmaeso/)
 [![Angel Guzman Maeso Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shakaran87)
