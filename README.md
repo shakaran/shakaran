@@ -1,7 +1,7 @@
-### Hi there 👋
+### 💫 Hi there 👋 [![Github](https://img.shields.io/github/followers/shakaran?label=Follow%20Me&style=social)](https://github.com/shakaran) [![](https://visitcount.itsvg.in/api?id=shakaran&icon=2&color=13)](https://visitcount.itsvg.in)
 Do you like my work? I am a Senior Backend Freelancer & Sysadmin, also touching the front side (aka FullStack), you can hire me, open a issue for contact me!
 
-Additionally you could be interested in check or hire me through my profiles at:
+🔭 Additionally you could be interested in check or hire me through my profiles at:
 
 <a href="https://www.upwork.com/fl/angelguzmanmaeso#/"><img alt="Upwork Profile Angel Guzman Maeso @shakaran" width="18px" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" /></a> [Upwork](https://www.upwork.com/fl/angelguzmanmaeso#/) (+230 jobs performed, 11500+ hours of work)<br />
 <a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+110 jobs performed)<br />
@@ -35,6 +35,8 @@ Do you still need more info about me or my work? Check this networks:
 - ⚡ Fun fact: ...
 -->
 
+___
+
 <h2>Languages and Tools</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -64,9 +66,15 @@ Do you still need more info about me or my work? Check this networks:
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white&labelColor=101010)]()
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-4479A1?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=101010)]()
 -->
+
 <br /><br />
-And a lot more, just I am being lazy adding more icons here ;)
+<div align="center">And a lot more, just I am being lazy adding more icons here ;)</div>
+
+___
 
 #### Github Stats 📊
 
-[![Ángel Guzmán Maeso's github stats](https://github-readme-stats.vercel.app/api?username=shakaran&show_icons=true&theme=onedark)](https://github.com/shakaran/)
+[![Ángel Guzmán Maeso's github stats](https://github-readme-stats.vercel.app/api?username=shakaran&include_all_commits=true&show_icons=true&theme=onedark&count_private=true)](https://github.com/shakaran/)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shakaran&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakaran&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
