@@ -1,5 +1,8 @@
 ### 💫 Hi there 👋 [![Github](https://img.shields.io/github/followers/shakaran?label=Follow%20Me&style=social)](https://github.com/shakaran) [![](https://visitcount.itsvg.in/api?id=shakaran&icon=2&color=13)](https://visitcount.itsvg.in)
-Do you like my work? I am a Senior Backend Freelancer & Sysadmin, also touching the front side (aka FullStack), you can hire me, open a issue for contact me!
+Do you like my work? I am a Senior Backend Freelancer & Sysadmin with more than 15+ years experience, <br />
+also touching the front side (aka FullStack), you can hire me, open a issue for contact me!
+
+___
 
 🔭 Additionally you could be interested in check or hire me through my profiles at:
 
@@ -13,7 +16,7 @@ You can check the public feedback from other clients and portfolio from that job
 
 I also have available an[ Agency called "Quijost" in Upwork](https://www.upwork.com/agencies/~01e2bf90f3bee0bd9f) working with more freelancers (for big projects where you need more work force)
 
-### More info
+### 🔝 More info
 
 Do you still need more info about me or my work? Check this networks:
 
