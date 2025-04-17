@@ -114,3 +114,9 @@ ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakaran&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakaran&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
