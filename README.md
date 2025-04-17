@@ -7,7 +7,7 @@ ___
 🔭 Additionally you could be interested in check or hire me through my profiles at:
 
 <a href="https://www.upwork.com/fl/angelguzmanmaeso#/"><img alt="Upwork Profile Angel Guzman Maeso @shakaran" width="18px" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" /></a> [Upwork](https://www.upwork.com/fl/angelguzmanmaeso#/) (+230 jobs performed, 11500+ hours of work)<br />
-<a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+110 jobs performed)<br />
+<a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+120 jobs performed)<br />
 <a href="https://www.shakersworks.com"><img alt="Shakers Profile Angel Guzman Maeso @shakaran" width="18px" src="https://app.shakersworks.com/favicon.png" /></a>
 [Shakers](https://www.shakersworks.com/) <br />
 <a href="https://worksible.com/shakaran"><img alt="Worksible Profile Angel Guzman Maeso @shakaran" width="18px" src="https://worksible.com/assets/imgs/logo/logo_azul.png" /></a> [Worksible](https://worksible.com/)
