@@ -59,11 +59,16 @@ ___
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="React" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Docker" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</div>
-
-<!--
+<img align="left" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
+<img align="left" alt="Python" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Angular" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
+<img align="left" alt="SQL" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="Git" height="30" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <!--
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=101010)]()
@@ -74,9 +79,32 @@ ___
 [![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white&labelColor=101010)]()
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-4479A1?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=101010)]()
 -->
-
+</div>
+<br />
 <br /><br />
 <div align="center">And a lot more, just I am being lazy adding more icons here ;)</div>
+
+___
+
+<h2>🎓 Education</h2>
+
+<div>
+
+- **🎓 University of Castilla-La Mancha**
+  - Bachelor's in Computer Science 📊💻 (Completed Dec 2012)
+
+</div>
+
+### 🌟 **Skills Highlight**
+
+- **💻 Full-Stack Development**: Vue.js, React, Angular, Node.js
+- **🧠 AI/ML Integration**: TensorFlow, PyTorch, NLP, model deployment
+- **☁️ Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins
+- **📈 Data Management**: SQL, NoSQL (MongoDB, Cassandra)
+- **🔧 Agile Practices & TDD**: Project management, code reviews, mentorship
+- **🎨 UI/UX Design**: User-centric interfaces with accessibility standards
+
+
 
 ___
 
