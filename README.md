@@ -1,13 +1,16 @@
-### 💫 Hi there 👋 [![Github](https://img.shields.io/github/followers/shakaran?label=Follow%20Me&style=social)](https://github.com/shakaran) [![](https://visitcount.itsvg.in/api?id=shakaran&icon=2&color=13)](https://visitcount.itsvg.in)
+### 💫 Hi there 👋 [![Github](https://img.shields.io/github/followers/shakaran?label=Follow%20Me&style=social)](https://github.com/shakaran) [![](https://visitcount.itsvg.in/api?id=shakaran&icon=2&color=13)](https://visitcount.itsvg.in) 
+
 Do you like my work? I am a Senior Backend Freelancer & Sysadmin with more than 15+ years experience, <br />
 also touching the front side (aka FullStack), you can hire me, open a issue for contact me!
+
+
 
 ___
 
 🔭 Additionally you could be interested in check or hire me through my profiles at:
 
 <a href="https://www.upwork.com/fl/angelguzmanmaeso#/"><img alt="Upwork Profile Angel Guzman Maeso @shakaran" width="18px" src="https://static-00.iconduck.com/assets.00/upwork-icon-512x512-myk0wgad.png" /></a> [Upwork](https://www.upwork.com/fl/angelguzmanmaeso#/) (+230 jobs performed, 11500+ hours of work)<br />
-<a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+120 jobs performed)<br />
+<a href="https://www.malt.es/profile/angelguzmanmaeso"><img alt="Malt Profile Angel Guzman Maeso @shakaran" width="18px" src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" /></a> [Malt](https://www.malt.es/profile/angelguzmanmaeso) (+125 jobs performed)<br />
 <a href="https://www.shakersworks.com"><img alt="Shakers Profile Angel Guzman Maeso @shakaran" width="18px" src="https://app.shakersworks.com/favicon.png" /></a>
 [Shakers](https://www.shakersworks.com/) <br />
 <a href="https://worksible.com/shakaran"><img alt="Worksible Profile Angel Guzman Maeso @shakaran" width="18px" src="https://worksible.com/assets/imgs/logo/logo_azul.png" /></a> [Worksible](https://worksible.com/)
@@ -15,6 +18,12 @@ ___
 You can check the public feedback from other clients and portfolio from that jobs.
 
 I also have available an[ Agency called "Quijost" in Upwork](https://www.upwork.com/agencies/~01e2bf90f3bee0bd9f) working with more freelancers (for big projects where you need more work force)
+
+Or increase this counter with 💝:
+
+<a href="https://liberapay.com/shakaran/">
+    <img alt="Liberapay" src="https://img.shields.io/liberapay/receives/shakaran?style=for-the-badge">
+</a>
 
 ### 🔝 More info
 
@@ -120,3 +129,6 @@ ___
 
 </div>
 
+<div align="center">
+
+</div>
